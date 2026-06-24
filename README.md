@@ -32,6 +32,7 @@ Sou estudante de Engenharia de Software na UNICSUL (Universidade Cruzeiro do Sul
 
 ### 🤖 Linguagens e Tecnologias
 
+<p align="left">
 <img 
     align="left" 
     alt="Python" 
@@ -62,7 +63,7 @@ Sou estudante de Engenharia de Software na UNICSUL (Universidade Cruzeiro do Sul
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
     align="left" 
     alt="GitHub Stats" 

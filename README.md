@@ -58,8 +58,9 @@ Sou estudante de Engenharia de Software na UNICSUL (Universidade Cruzeiro do Sul
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<br/>
-<br/>
+</p> 
+
+---
 
 ### 📊 Estatísticas
 
@@ -78,6 +79,20 @@ Sou estudante de Engenharia de Software na UNICSUL (Universidade Cruzeiro do Sul
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=olimpioclarice&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+</p>
+
+<br clear="both"/> 
+
+---
+
+### 🐍 Gráfico de Contribuições
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olimpioclarice/olimpioclarice/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olimpioclarice/olimpioclarice/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/olimpioclarice/olimpioclarice/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 

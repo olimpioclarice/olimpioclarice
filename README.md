@@ -19,7 +19,7 @@ Sou estudante de Engenharia de Software na UNICSUL (Universidade Cruzeiro do Sul
             src="https://custom-icon-badges.demolab.com/github/followers/olimpioclarice?color=9370db&labelColor=8a2be2&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://linkedin.com/in/clariceolimpio" target="_blank">
+    <a href="https://linkedin.com/in/clarice-olimpio-06365323b" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 

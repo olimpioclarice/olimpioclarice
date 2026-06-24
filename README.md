@@ -1,4 +1,4 @@
-## Oi, e sou a Clarice Olimpio 👋👩🏻‍💻​
+## Oi, eu sou a Clarice Olimpio 👋👩🏻‍💻​
 
 **`Estudante de Engenharia de Software`**
 
@@ -66,10 +66,10 @@ Sou estudante de Engenharia de Software na UNICSUL (Universidade Cruzeiro do Sul
 <p align="left">
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="GitHub Streak" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=olimpioclarice&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=olimpioclarice&theme=tokyonight&locale=pt_br" 
   />
 
   <img 
